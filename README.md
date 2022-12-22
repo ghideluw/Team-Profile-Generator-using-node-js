@@ -20,14 +20,14 @@ In order to run the tests on the onset run "npm run test" in the terminal. A tot
 In order to start the application in the command line run "node index.js" a series of prompt questions requiring input will display in the terminal. Once all team members are input with their corresponding info, the list selection of team is complete should be selected to exit the prompt and generate an index.html output for displaying the data.
 
 ##screenshot 
-dist\Screenshot (3).png
+(dist\Screenshot (3).png)
    
 
 
 ## License
 MIT License
 
-Copyright (c) [year] [fullname]
+Copyright (c) [2022] [Luwam Ghide]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
