@@ -1,6 +1,6 @@
 class Employee {
 //create constructor function for employee object with employee as class including name, id and email as properties
-constructor(name, id, email){
+constructor({name, id, email}){
     this.name = name;
     this.id = id;
     this.email = email;

@@ -4,11 +4,11 @@ const Employee = require("./employee");
 //Intern class extends the employee parent class
 class Intern extends Employee {
     //create constructor function which includes name, email, id, and school name
-    constructor( name, email, id, school ) {
+    constructor( {name, email, id, school }) {
 
         
         //inherited properties from the employee parent class is name, email, and id
-        super( name, email, id );
+        super( {name, email, id} );
 
         //access the inputted school name from this instance of the intern class
         this.school = school;

@@ -4,8 +4,8 @@ const Employee = require("./employee");
 //extend engineer class from the employee class
 class Engineer extends Employee {
 
-    constructor(name, email, id, github) {
-        super( name, email, id);
+    constructor({name, email, id, github}) {
+        super({ name, email, id});
 //Access the github profile from the instance of the engineer class
 
 this.github = github;
