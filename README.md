@@ -18,9 +18,11 @@ npm
 
 In order to run the tests on the onset run "npm run test" in the terminal. A total of 4 tests should return with a pass.
 In order to start the application in the command line run "node index.js" a series of prompt questions requiring input will display in the terminal. Once all team members are input with their corresponding info, the list selection of team is complete should be selected to exit the prompt and generate an index.html output for displaying the data.
+A link to the video walk-through of how to use the application is here:
+<https://drive.google.com/file/d/1kYzQ8kji4MzmJ6tI8cglmt7splKn0IkX/view>
+##screenshot ![image](https://user-images.githubusercontent.com/111549689/209503011-593dce63-57b8-4f7a-a62f-83dbc4d73ec8.png)
 
-##screenshot 
-(dist\Screenshot (3).png)
+
    
 
 
